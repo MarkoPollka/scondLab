@@ -1,0 +1,2 @@
+rootProject.name='scondLab'
+include ':app'
